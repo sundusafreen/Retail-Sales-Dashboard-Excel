@@ -5,7 +5,7 @@ It includes data cleaning, enrichment, calculated KPI, pivot analysis and a full
 
 ##📂Contents
 - 'Retail_Sales_Insigjts_Dashboard.xlsx'- Excel workbook with data, formulas, pivots, slicers, and dashboard.
-- 'Steps_Logs', - Documented cleaning, lookup, and KPI Logic
+- 'Step_Logs', - Documented cleaning, lookup, and KPI Logic
 
 ##📊Skills Demonstrated
 - Data Cleaning & Preparation
